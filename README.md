@@ -5,7 +5,7 @@ A lightweight, non-normative reference implementation of the **Autonomous Busine
 **Public site:** https://abr.sirvisetti.com  
 **ABS / ABCS:** https://abs.sirvisetti.com
 
-> **Non-normative.** This repository demonstrates one way to implement ABCS. Conformance is defined by the ABCS specification and canonical contracts in `sirvisetti/autonomous-business-standard`, not by this code.
+> **Non-normative.** This repository demonstrates one way to implement ABCS. Conformance is defined by the ABCS specification and canonical contracts in `sirvisetti/autonomy-standard`, not by this code.
 
 ## Goals
 
